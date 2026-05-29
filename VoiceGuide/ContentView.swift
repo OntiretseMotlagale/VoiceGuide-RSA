@@ -26,6 +26,7 @@ struct ContentView: View {
                     PlaySaveDownloadBar(isPlaying: $isPlaying) {
                         
                     }
+                    Text("Hello there")
                     
                     Text("About Singapore")
                         .font(.title2)
