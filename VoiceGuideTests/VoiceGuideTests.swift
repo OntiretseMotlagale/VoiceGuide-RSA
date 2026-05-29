@@ -13,4 +13,7 @@ struct VoiceGuideTests {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
     }
 
+    @Test func example1() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
 }
