@@ -33,6 +33,7 @@
 		206F2AC129F975C70093935E /* PlaySaveDownloadBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySaveDownloadBar.swift; sourceTree = "<group>"; };
 		206F2AC329F97D730093935E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		24865EA72FC88CB8003AA6F6 /* VoiceGuideTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VoiceGuideTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		24CC94122FC9D2E400957815 /* WhatToTest.en-US.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "WhatToTest.en-US.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -60,6 +61,7 @@
 		206F2AA329F973570093935E = {
 			isa = PBXGroup;
 			children = (
+				24CC94112FC9D29000957815 /* TestFlight */,
 				206F2AAE29F973570093935E /* VoiceGuide */,
 				24865EA82FC88CB8003AA6F6 /* VoiceGuideTests */,
 				206F2AAD29F973570093935E /* Products */,
@@ -102,6 +104,14 @@
 				206F2AC129F975C70093935E /* PlaySaveDownloadBar.swift */,
 			);
 			path = Components;
+			sourceTree = "<group>";
+		};
+		24CC94112FC9D29000957815 /* TestFlight */ = {
+			isa = PBXGroup;
+			children = (
+				24CC94122FC9D2E400957815 /* WhatToTest.en-US.txt */,
+			);
+			path = TestFlight;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
