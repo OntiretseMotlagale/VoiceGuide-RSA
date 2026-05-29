@@ -1,0 +1,21 @@
+1. Hi testers 👋
+2. Thank you for taking the time to test this build of the app. Your feedback is very important and will help improve stability, performance, and overall user experience before release.
+3. Please explore the app as naturally as possible, as if you were a normal user. Try different flows, click around, and don’t just stay on one screen. The goal is to uncover real-world issues.
+4. Key areas to focus on during testing:
+App launch performance (does it open smoothly or crash?)
+Login / sign up process (if applicable)
+Navigation between screens (back buttons, tab switching, deep navigation)
+Core features of the app (main functionality should work as expected)
+Buttons, forms, and input fields (validation, responsiveness, errors)
+Network requests (loading states, delays, failed requests handling)
+UI layout issues (overlapping text, broken layouts, spacing issues)
+Dark mode support (if enabled)
+Different screen sizes (small iPhones, large iPhones, iPads if supported)
+Performance issues (lag, freezing, slow animations)
+5. Please also try unusual or edge-case actions such as:
+Entering invalid inputs in forms
+Rapidly tapping buttons
+Switching screens quickly
+Closing and reopening the app multiple times
+Using the app with poor or no internet connection
+
